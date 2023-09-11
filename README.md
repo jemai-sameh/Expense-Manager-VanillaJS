@@ -6,8 +6,10 @@ A new expense is represented inthe interface by a Card, as shown in the figures,
 Each added expense is recorded in a list of expenses and the total sumsinserted is calculated as expenses are added.
 This application must be developed with Vanilla Javascript (without any framework).
 
-
-![Image 1](https://github.com/jemai-sameh/Expense-Manager-VanillaJS/blob/main/image1.png) ![Image 2](https://github.com/jemai-sameh/Expense-Manager-VanillaJS/blob/main/image2.png)
-
-
-![Image 3](https://github.com/jemai-sameh/Expense-Manager-VanillaJS/blob/main/image3.png) 
+<div align="center">
+  <img src="https://github.com/jemai-sameh/Expense-Manager-VanillaJS/blob/main/image1.png" alt="Image 1" width="45%" height="350">
+  <img src="https://github.com/jemai-sameh/Expense-Manager-VanillaJS/blob/main/image2.png" alt="Image 2" width="45%"height="350"> 
+</div>
+<div align="center">
+<img src="https://github.com/jemai-sameh/Expense-Manager-VanillaJS/blob/main/image3.png" alt="Image 3" width="50%" height="350"> 
+</div>
