@@ -1,4 +1,4 @@
-# Gestion-des-d-penses-avec-Vanilla-JS
+# Expense-Manager-VanillaJS
 
 This TP consists of the development of an expense management application.
 An expense is defined by a title and a sum (a real one).
